@@ -1,0 +1,26 @@
+There are 7 basic tags in HTML
+1- HTML
+2- Head
+3- Title
+4- Meta
+5- Link
+6- Script
+7- Body
+
+
+LINK: Used to link CSS
+SCRIPT: Used for Java Script
+BODY: All type of text
+
+There are two types of tags & elements
+
+Elements:
+1- Inline
+2- Block Level
+
+Tags:
+1- Stand alone / self closing
+2- Container
+
+
+ 
