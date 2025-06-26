@@ -22,5 +22,8 @@ Tags:
 1- Stand alone / self closing
 2- Container
 
+Attributes: addition information of the tags is called attributes
 
- 
+
+1- Absolute path
+2- Relative path
